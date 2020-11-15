@@ -74,7 +74,14 @@ picture img{
 .cta:hover{
     cursor: pointer;
 }
+.cta a{
+    text-decoration: none;
+    color: white;
+}
 ul{
     margin-left: 3vw;
     list-style: none;
+}
+.white{
+    color: white;
 }
