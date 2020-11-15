@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    padding: 5vh 5vw;
+    text-align: center;
+    border: black solid 3px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+main{
+}
+.top{
+    background-image: url("../images/crowd.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.receipt{
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+}
