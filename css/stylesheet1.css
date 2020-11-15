@@ -73,6 +73,8 @@ picture img{
 }
 .cta:hover{
     cursor: pointer;
+    background-color: gray;
+    transition: 200ms;
 }
 .cta a{
     text-decoration: none;
